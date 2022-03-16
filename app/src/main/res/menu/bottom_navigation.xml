@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuMapList"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/map_list_label"
+        />
+    <item
+        android:id="@+id/menuOther"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/other_label"
+        />
+</menu>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GoogleMapsTestApp</string>
+    <string name="map_list_label">MapList</string>
+    <string name="other_label">Other</string>
+
+    <string name="other_text">OtherFragment</string>
 </resources>
